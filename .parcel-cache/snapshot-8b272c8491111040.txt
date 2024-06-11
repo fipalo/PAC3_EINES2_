@@ -54,7 +54,7 @@
 96C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\src\assets\fonts\Subjectivity\Subjectivity-Medium.otf133625159674113062 0
 121C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gfilemonitor.h133117882010000000 0
 120C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\csso\node_modules\css-tree\cjs\syntax\config\parser-selector.cjs133626109553313636 0
-24C:\UOC\PAC3_EINES2_\dist133626145690586166 1
+24C:\UOC\PAC3_EINES2_\dist133626159982307155 1
 105C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\postcss-selector-parser\dist\selectors\nesting.js133626109556783678 0
 65C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\is-string133626109567216000 1
 75C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\tar-fs\package.json133626109550447046 0
@@ -156,7 +156,7 @@
 125C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-infile-msvba.h133117882010000000 0
 102C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\csso\node_modules\css-tree\cjs\utils\index.cjs133626109552880411 0
 134C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function\expression.js133626109552054029 0
-69C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\src\assets\styles\main.css133626145687522877 0
+69C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\src\assets\styles\main.css133626159978829608 0
 52C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\README.md133626101989530312 0
 112C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\path-scurry\node_modules\lru-cache\dist\esm\package.json133626109549895929 0
 84C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\tailwindcss\types\index.d.ts133626109555325694 0
@@ -3617,7 +3617,7 @@
 91C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@swc\helpers\cjs\_object_spread.cjs133626109582802717 0
 94C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\tailwindcss\lib\util\pseudoElements.js133626109554830096 0
 103C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133626109554911230 0
-50C:\UOC\PAC3_EINES2_\dist\COPA_CONCURS.6d081597.png133626145690013316 0
+50C:\UOC\PAC3_EINES2_\dist\COPA_CONCURS.6d081597.png133626159981439111 0
 97C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\tailwindcss\lib\util\resolveConfigPath.js133626109554944723 0
 88C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\es-abstract\2020\Number\equal.js133626109575691568 0
 124C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertTransform.js133626109550992064 0
@@ -4225,7 +4225,7 @@
 117C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\Value.js133626109552224982 0
 87C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\spdx-expression-parse\README.md133626109552286083 0
 80C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\es-abstract\5\MakeDay.js133626109577290231 0
-49C:\UOC\PAC3_EINES2_\dist\PAC3_EINES2_.3464ddca.js133626145689788226 0
+49C:\UOC\PAC3_EINES2_\dist\PAC3_EINES2_.3464ddca.js133626159981307576 0
 77C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\strip-ansi\index.d.ts133626109549050962 0
 91C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\postcss-selector-not\dist\index.cjs133626109555965281 0
 121C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xmlunicode.h133117882010000000 0
@@ -6141,7 +6141,7 @@
 104C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-select\lib\esm\pseudo-selectors\index.js.map133626109552236077 0
 91C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\resolve\test\precedence\bbb\main.js133626109552860412 0
 82C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\glob\dist\esm\has-magic.js133626109549350957 0
-46C:\UOC\PAC3_EINES2_\dist\menjar_4.f3e7752f.jpg133626145690213301 0
+46C:\UOC\PAC3_EINES2_\dist\menjar_4.f3e7752f.jpg133626159981774195 0
 106C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\has-symbols\test\shams\get-own-property-symbols.js133626109568515167 0
 74C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\dlv\dist\dlv.es.js133626109548918795 0
 108C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\caniuse-lite\data\features\link-rel-modulepreload.js133626109579020190 0
@@ -6493,7 +6493,7 @@
 85C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\postcss-place\dist\index.d.ts133626109559021359 0
 91C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@nodelib\fs.stat\out\types\index.js133626109549430964 0
 86C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\is-weakref\.github\FUNDING.yml133626109567165998 0
-46C:\UOC\PAC3_EINES2_\dist\menjar_8.75569054.jpg133626145690173296 0
+46C:\UOC\PAC3_EINES2_\dist\menjar_8.75569054.jpg133626159981744202 0
 96C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\postcss-place\dist\onCSSDeclaration.d.ts133626109559031351 0
 83C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\postcss-page-break\index.js133626109558940536 0
 82C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\postcss-page-break\LICENSE133626109558928735 0
@@ -6541,7 +6541,7 @@
 72C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\fastq\index.d.ts133626109550112891 0
 91C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\es-abstract\2021\BigIntBitwiseOp.js133626109574850078 0
 125C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\postcss-nesting\dist\lib\merge-selectors\compound-selector-order.d.ts133626109559393345 0
-43C:\UOC\PAC3_EINES2_\dist\index.c3b4f7fa.css133626145690133333 0
+43C:\UOC\PAC3_EINES2_\dist\index.c3b4f7fa.css133626159981045534 0
 113C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\postcss-nesting\dist\lib\merge-selectors\specificity.d.ts133626109559427928 0
 105C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\es-abstract\2018\OrdinaryCreateFromConstructor.js133626109577854789 0
 83C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\object.assign\.editorconfig133626109562475365 0
@@ -7345,7 +7345,7 @@
 75C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-tree\lib\syntax133626109554680051 1
 77C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\msgpackr\package.json133626109564767525 0
 97C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\es-abstract\2019\DeletePropertyOrThrow.js133626109575630787 0
-47C:\UOC\PAC3_EINES2_\dist\index.c3b4f7fa.css.map133626145690153317 0
+47C:\UOC\PAC3_EINES2_\dist\index.c3b4f7fa.css.map133626159981065538 0
 74C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\msgpackr\README.md133626109567225996 0
 79C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\packager-js\src133626109602370408 1
 107C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js133626109596778122 0
@@ -7993,7 +7993,7 @@
 117C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Comment.js133626109550597969 0
 86C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\is-boolean-object\CHANGELOG.md133626109567216000 0
 82C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\is-boolean-object\index.js133626109567186001 0
-44C:\UOC\PAC3_EINES2_\dist\galeria.e808f823.js133626145689788226 0
+44C:\UOC\PAC3_EINES2_\dist\galeria.e808f823.js133626159981307576 0
 87C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-select\lib\esm\compile.d.ts133626109553053642 0
 81C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\is-boolean-object\LICENSE133626109567175999 0
 88C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-tree\cjs\convertor\index.cjs133626109552679233 0
@@ -10344,7 +10344,7 @@
 93C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-tree\cjs\syntax\node\Selector.cjs133626109553575506 0
 105C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@csstools\postcss-font-format-keywords\LICENSE.md133626109628160016 0
 97C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-tree\cjs\syntax\node\SelectorList.cjs133626109553615510 0
-37C:\UOC\PAC3_EINES2_\dist\galeria.html133626145690223298 0
+37C:\UOC\PAC3_EINES2_\dist\galeria.html133626159980414046 0
 87C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@swc\helpers\cjs\_construct.cjs133626109582702671 0
 97C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-tree\cjs\syntax\node\TypeSelector.cjs133626109553973330 0
 88C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-tree\cjs\syntax\node\Url.cjs133626109554013335 0
@@ -10598,7 +10598,7 @@
 91C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\caniuse-lite\data\features\forms.js133626109578354379 0
 94C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-select\lib\esm\attributes.d.ts.map133626109551383176 0
 88C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-select\lib\esm\attributes.js133626109549573062 0
-48C:\UOC\PAC3_EINES2_\dist\galeria.e808f823.js.map133626145689863256 0
+48C:\UOC\PAC3_EINES2_\dist\galeria.e808f823.js.map133626159981327566 0
 91C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\css-select\lib\esm\compile.d.ts.map133626109551514235 0
 96C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\codeframe\test\codeframe.test.js133626109615154377 0
 83C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\package-manager\lib133626109603205098 1
@@ -12305,7 +12305,7 @@
 115C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\transformer-js\node_modules\semver\functions\gte.js133626109636022053 0
 115C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\transformer-js\node_modules\semver\functions\inc.js133626109636032042 0
 114C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\transformer-js\node_modules\semver\functions\lt.js133626109636052047 0
-53C:\UOC\PAC3_EINES2_\dist\PAC3_EINES2_.3464ddca.js.map133626145689883292 0
+53C:\UOC\PAC3_EINES2_\dist\PAC3_EINES2_.3464ddca.js.map133626159981337565 0
 115C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\transformer-js\node_modules\semver\functions\lte.js133626109636052047 0
 117C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\transformer-js\node_modules\semver\functions\parse.js133626109636122066 0
 120C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\node_modules\@parcel\transformer-js\node_modules\semver\functions\rcompare.js133626109636153100 0
@@ -13802,11 +13802,11 @@
 86C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\.parcel-cache\44c3568f9ed7534a-AssetGraph-0133626123911412953 0
 77C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\.parcel-cache\9e063c879a3e4ec8.txt133626123912059149 0
 65C:\UOC\PAC3_EINES2_\uoc-boilerplate-master\.parcel-cache\lock.mdb133626123858891589 0
-58C:\UOC\PAC3_EINES2_\dist\Subjectivity-Regular.852feb36.otf133626145689215205 0
-52C:\UOC\PAC3_EINES2_\dist\logo_escruce_2.6add9e69.png133626145689235203 0
-46C:\UOC\PAC3_EINES2_\dist\menjar_7.fec43de0.jpg133626145689295202 0
-46C:\UOC\PAC3_EINES2_\dist\menjar_5.f37d567b.jpg133626145689953303 0
-46C:\UOC\PAC3_EINES2_\dist\menjar_1.9393eff0.jpg133626145690073298 0
-46C:\UOC\PAC3_EINES2_\dist\menjar_6.04ba92bb.jpg133626145690073298 0
-46C:\UOC\PAC3_EINES2_\dist\menjar_2.8a587f71.jpg133626145690153317 0
-46C:\UOC\PAC3_EINES2_\dist\menjar_3.4ea540a3.jpg133626145690566159 0
+58C:\UOC\PAC3_EINES2_\dist\Subjectivity-Regular.852feb36.otf133626159980831560 0
+52C:\UOC\PAC3_EINES2_\dist\logo_escruce_2.6add9e69.png133626159980831560 0
+46C:\UOC\PAC3_EINES2_\dist\menjar_7.fec43de0.jpg133626159980903096 0
+46C:\UOC\PAC3_EINES2_\dist\menjar_6.04ba92bb.jpg133626159981147561 0
+46C:\UOC\PAC3_EINES2_\dist\menjar_2.8a587f71.jpg133626159981207570 0
+46C:\UOC\PAC3_EINES2_\dist\menjar_5.f37d567b.jpg133626159981714201 0
+46C:\UOC\PAC3_EINES2_\dist\menjar_1.9393eff0.jpg133626159981744202 0
+46C:\UOC\PAC3_EINES2_\dist\menjar_3.4ea540a3.jpg133626159982297154 0

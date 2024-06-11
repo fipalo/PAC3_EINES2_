@@ -881,4 +881,12 @@ body {
     margin: 0;
   }
 }
+
+.btn-custom {
+  @apply bg-blue-500 text-white font-bold py-2 px-4 rounded;
+}
+
+.card-custom {
+  @apply shadow-lg p-6 rounded-lg;
+}
 /*# sourceMappingURL=index.c3b4f7fa.css.map */

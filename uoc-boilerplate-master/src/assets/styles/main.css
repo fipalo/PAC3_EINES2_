@@ -1221,3 +1221,13 @@ Remove or comment-out the code block below to see how the browser will fall-back
  */
 
 /*# sourceMappingURL=estils.css.map */
+
+
+/* src/styles/custom.css */
+.btn-custom {
+  @apply bg-blue-500 text-white font-bold py-2 px-4 rounded;
+}
+
+.card-custom {
+  @apply shadow-lg p-6 rounded-lg;
+}
